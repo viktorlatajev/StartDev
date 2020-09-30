@@ -41,5 +41,6 @@ class Task3 {
         System.out.println("min = " + min);
         System.out.println("max = " + max);
         System.out.println("----- Конец задачи 3 ------");
+        System.out.println("");
     }
 }
